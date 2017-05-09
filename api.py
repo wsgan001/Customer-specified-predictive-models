@@ -1,3 +1,4 @@
+#!/bin/python3
 """Weighted model based on k-nearest neighbors classification"""
 
 # Author: Zhaoen Su <suzhaoen@gmail.com>
